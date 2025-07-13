@@ -1,0 +1,20 @@
+
+body { font-family: Arial, sans-serif; background: #f9f9f9; padding: 20px;}
+.ramo {
+  border: 1px solid #aaa;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 10px;
+  display: inline-block;
+  width: 200px;
+  vertical-align: top;
+}
+.aprobado {
+  background-color: #a8e6a3;
+}
+.bloqueado {
+  opacity: 0.5;
+}
+h1 {
+  color: #444;
+}
